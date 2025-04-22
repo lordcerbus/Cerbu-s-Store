@@ -25,3 +25,5 @@ Abra o arquivo index.html no navegador.
 Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades! Abra uma issue ou envie um pull request.
 
 🌟 Divirta-se explorando a Cerbu's Store! 🌟
+
+https://lordcerbus.github.io/Cerbu-s-Store/
