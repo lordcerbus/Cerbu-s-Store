@@ -18,7 +18,7 @@ HTML/CSS (Estrutura e estilização básica)
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/cerbus-store.git
+git clone https://github.com/lordcerbus/cerbus-store.git
 Abra o arquivo index.html no navegador.
 
 📌 Contribuições
